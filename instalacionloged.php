@@ -26,12 +26,12 @@
     .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(25%, 1fr)); /* Esto permite ajustar automáticamente las columnas */
-  gap: 10px; /* Espacio entre las imágenes */
+  gap: 10px; 
 }
 
 .grid-item {
-  width: 100%; /* Ocupará todo el ancho de su contenedor */
-  padding: 10px; /* Espacio alrededor de las imágenes */
+  width: 100%; 
+  padding: 10px;
 }
 
 img {
