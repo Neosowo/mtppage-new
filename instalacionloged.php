@@ -20,7 +20,7 @@
     }
     .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(25%, 1fr)); /* Esto permite ajustar automáticamente las columnas */
+  grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));
   gap: 10px; 
 }
 
@@ -30,12 +30,11 @@
 }
 
 img {
-  width: 100%; /* Las imágenes se ajustarán al ancho de su contenedor */
-  height: auto; /* Mantendrá la relación de aspecto original */
+  width: 100%; 
+  height: auto;
  
 }
 
-/* Estilos para el modal */
 .modal {
   display: none;
   position: fixed;
@@ -43,7 +42,7 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.7); /* Fondo oscurecido */
+  background-color: rgba(0, 0, 0, 0.7); 
   overflow: auto;
 
 }
@@ -67,7 +66,6 @@ img {
   cursor: pointer;
 }
 
-/* Estilos para el fondo oscurecido */
 .modal:target {
   display: block;
 }
@@ -75,8 +73,6 @@ img {
 .grid-container{
     margin-top: 100px;
 }
-
-
     </style>
 
 
