@@ -6,13 +6,8 @@
     <title>Noticias | Unidad Educativa Montepiedr</title>
     <meta charset="utf-8">
     <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
-
- 
-
-    
     <link rel="stylesheet" href="css/fontawesome-all.css" type="text/css">
     <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
-
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/estilos.css">
